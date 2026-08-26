@@ -1,0 +1,6 @@
+{
+  "name": "Game Developer & Programmer Portfolio",
+  "description": "A high-impact dark cinematic portfolio showcasing live playable games, game prototypes, physics systems, and software engineering projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
